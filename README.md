@@ -8,6 +8,12 @@ A firmware and tooling stack for a custom **8-line Multi-Material Unit (MMU)** f
 * **Klipper configuration** (`pico-mmu.cfg`) with macros for seamless integration with Klipper firmware.
 * Hardware designs for filament cutter and filament hub components.
 
+## Project Reproduction and Community Contributions
+
+I am currently reproducing and adapting this project for my own Creality Ender 3 V3 KE setup. This fork will document the build process, component choices, calibration results, troubleshooting notes, and practical lessons learned during the implementation.
+
+I intend to share future updates and tutorials with the community in both **Portuguese** and **English**, helping makers reproduce, understand, and adapt the Pico MMU for their own printers.
+
 ## Features
 
 ✨ **8-Line Multi-Material System**
@@ -70,6 +76,7 @@ A firmware and tooling stack for a custom **8-line Multi-Material Unit (MMU)** f
 ## Table of Contents
 
 - [Creality Pico MMU](#creality-pico-mmu)
+  - [Project Reproduction and Community Contributions](#project-reproduction-and-community-contributions)
   - [Features](#features)
   - [System Requirements](#system-requirements)
   - [Table of Contents](#table-of-contents)
